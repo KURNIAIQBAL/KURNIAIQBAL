@@ -1,0 +1,6 @@
+{
+  "name": "Retro 8-Bit GitHub Profile README Generator",
+  "description": "Generator dan preview interaktif untuk kode Markdown README profil GitHub bertema 8-bit, pixel art, dan retro gaming dengan animasi GIF & SVG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
