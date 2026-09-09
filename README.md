@@ -1,5 +1,3 @@
-## Learning log
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal hero visual" />
 </p>
