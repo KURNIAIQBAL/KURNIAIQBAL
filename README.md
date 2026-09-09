@@ -1,47 +1,51 @@
+# Muhammad Karunia Iqbal — Fullstack Developer & Cloud Engineering
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=KURNIAIQBAL&theme=light&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal hero visual" />
 </p>
 
-**Muhammad Karunia Iqbal** · Frontend or full-stack engineer
+**Muhammad Karunia Iqbal** · **Fullstack Developer** & **Cloud Engineering**  
+Sistem Informasi · fokus pada aplikasi web, mobile, dan infrastruktur cloud
 
-## Currently learning
+---
 
-> Teech Enthuciast
+### Skill
 
-**Learning next**
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-- TypeScript
-- Dart
-- HTML
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-👥 **0** followers · **0** following
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## Tools I’m practicing
+**Cloud & DevOps**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-AUTO-6C6C6C?style=flat-square)
 
-- **TypeScript** · 42%
-- **Dart** · 30%
-- **HTML** · 10%
-- **C++** · 8%
-- **CMake** · 6%
-- **JavaScript** · 2%
-- **CSS** · 1%
-- **Swift** · 1%
+**Networking & Modeling**  
+![Cisco](https://img.shields.io/badge/Cisco-1A1A1A?style=flat-square&logo=cisco&logoColor=white) ![DFD](https://img.shields.io/badge/DFD-D9D9D9?style=flat-square&logo=drawio&logoColor=black) ![ERD](https://img.shields.io/badge/ERD-D9D9D9?style=flat-square)
 
-## Projects in progress
+**Tools & Others**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white) ![AI Voice](https://img.shields.io/badge/AI-Voice-9AE6B4?style=flat-square)
+
+---
+
+### Projects in progress
 
 <details>
 <summary><b>KURNIAIQBAL</b> · TypeScript</summary>
 
-profile github<br/>
+Profile GitHub dan konfigurasi profil README.  
 ⭐ 0 · 🍴 0
 
 [View repository](https://github.com/KURNIAIQBAL/KURNIAIQBAL)
 </details>
 
 <details>
-<summary><b>wishlistapp</b> · Dart</summary>
+<summary><b>wishlistapp</b> · Dart / Flutter</summary>
 
-wishlist app dibuat dengan flutter dan supabase  untuk authnya<br/>
+Wishlist app dibuat dengan Flutter dan Supabase untuk auth.  
 ⭐ 0 · 🍴 0
 
 [View repository](https://github.com/KURNIAIQBAL/wishlistapp)
@@ -50,55 +54,33 @@ wishlist app dibuat dengan flutter dan supabase  untuk authnya<br/>
 <details>
 <summary><b>linktree_MuhammadKaruniaIqbal</b> · TypeScript</summary>
 
-A selected project from this GitHub profile.<br/>
+Link aggregator / personal linktree project.  
 ⭐ 0 · 🍴 0
 
 [View repository](https://github.com/KURNIAIQBAL/linktree_MuhammadKaruniaIqbal)
 </details>
 
-<details>
-<summary><b>simplenoteapp1.github.io</b> · HTML</summary>
+---
 
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
+### Progress so far
 
-[View repository](https://github.com/KURNIAIQBAL/simplenoteapp1.github.io)
-</details>
-
-<details>
-<summary><b>koppinjam.github.io</b> · open source</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/KURNIAIQBAL/koppinjam.github.io)
-</details>
-
-<details>
-<summary><b>koprasi</b> · HTML</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/KURNIAIQBAL/koprasi)
-</details>
-
-## Progress so far
-
-- **Current streak:** 1 days
-- **Longest streak:** 1 days
+- **Current streak:** 1 day  
+- **Longest streak:** 1 day  
 - **Active days:** 3 days
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal stats visual" />
+  <img src="https://www.gitskins.com/api/section/stats?username=KURNIAIQBAL&theme=light&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal stats visual" />
 </p>
 
-## Say hello
+---
+
+### Say hello
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=KURNIAIQBAL&theme=light&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal social visual" />
 </p>
 
-<a href="https://github.com/kurniaiqbal">GitHub</a>
+**GitHub**: https://github.com/KURNIAIQBAL  
+**Email**: (letakkan email kamu di sini jika mau)
 
 <p align="center"><sub>Muhammad Karunia Iqbal · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
