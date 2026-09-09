@@ -1,85 +1,106 @@
-<div align="center">
+## Learning log
 
-<!-- Header Bento -->
-<table>
-<tr>
-<td align="center" width="100%" style="background-color:#DFFFD6; border:3px solid #1A1A1A; padding:20px;">
-  
-# Hi, I'm Muhammad  Karunia Iqbal
-💻 Sistem Informasi | Fullstack Developer & Cloud Engineering  
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal hero visual" />
+</p>
 
-</td>
-</tr>
-</table>
+**Muhammad Karunia Iqbal** · Frontend or full-stack engineer
 
-<!-- Bento Grid -->
-<table>
-<tr>
-<td width="50%" style="background-color:#F9F6EE; border:3px solid #1A1A1A; padding:20px; vertical-align:top;">
+## Currently learning
 
-## 🚀 Tech Stack
-- 🌐 Cisco Packet Tracer (VLAN, Trunking, Router-on-a-Stick)  
-- ☕ Java Swing (UI Panels, Event Handling)  
-- 🗂️ System Modeling (DFD, ERD)  
-- 🎨 Content Creation (AI Voiceover, CapCut)  
+> Teech Enthuciast
 
-</td>
+**Learning next**
 
-<td width="50%" style="background-color:#DFFFD6; border:3px solid #1A1A1A; padding:20px; vertical-align:top;">
+- TypeScript
+- Dart
+- HTML
 
-## 📊 Current Focus
-- 🔧 Network Design & Troubleshooting  
-- 🖼️ Visual Diagrams & Annotated Labels  
-- 📝 Critical Analysis & Case Studies  
-- 🎙️ Natural Language for AI Voiceover  
+👥 **0** followers · **0** following
 
-</td>
-</tr>
-</table>
+## Tools I’m practicing
 
-<!-- GitHub Stats Bento -->
-<table>
-<tr>
-<td width="50%" style="background-color:#DFFFD6; border:3px solid #1A1A1A; padding:20px;">
+- **TypeScript** · 42%
+- **Dart** · 30%
+- **HTML** · 10%
+- **C++** · 8%
+- **CMake** · 6%
+- **JavaScript** · 2%
+- **CSS** · 1%
+- **Swift** · 1%
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=DFFFD6&title_color=1A1A1A&text_color=1A1A1A&icon_color=1A1A1A&border_color=1A1A1A&hide_border=false&border_radius=0&count_private=true&include_all_commits=true)
+## Projects in progress
 
-</td>
+<details>
+<summary><b>KURNIAIQBAL</b> · TypeScript</summary>
 
-<td width="50%" style="background-color:#F9F6EE; border:3px solid #1A1A1A; padding:20px;">
+profile github<br/>
+⭐ 0 · 🍴 0
 
-## 🔥 Streaks & Languages
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&background=F9F6EE&border=1A1A1A&stroke=1A1A1A&ring=1A1A1A&fire=1A1A1A&currStreakLabel=1A1A1A&sideNums=1A1A1A&sideLabels=1A1A1A&dates=1A1A1A)
+[View repository](https://github.com/KURNIAIQBAL/KURNIAIQBAL)
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=F9F6EE&title_color=1A1A1A&text_color=1A1A1A&border_color=1A1A1A&hide_border=false&border_radius=0)
+<details>
+<summary><b>wishlistapp</b> · Dart</summary>
 
-</td>
-</tr>
-</table>
+wishlist app dibuat dengan flutter dan supabase  untuk authnya<br/>
+⭐ 0 · 🍴 0
 
-<!-- Animated Contribution Graph -->
-<table>
-<tr>
-<td align="center" width="100%" style="background-color:#1A1A1A; color:#F9F6EE; border:3px solid #1A1A1A; padding:20px;">
+[View repository](https://github.com/KURNIAIQBAL/wishlistapp)
+</details>
 
-### 🌀 Contribution Animation
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
+<details>
+<summary><b>linktree_MuhammadKaruniaIqbal</b> · TypeScript</summary>
 
-</td>
-</tr>
-</table>
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
 
-<!-- Bento Footer -->
-<table>
-<tr>
-<td align="center" width="100%" style="background-color:#1A1A1A; color:#F9F6EE; border:3px solid #1A1A1A; padding:20px;">
+[View repository](https://github.com/KURNIAIQBAL/linktree_MuhammadKaruniaIqbal)
+</details>
 
-### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/yourusername) • [Email](mailto:your@email.com)
+<details>
+<summary><b>simplenoteapp1.github.io</b> · HTML</summary>
 
-</td>
-</tr>
-</table>
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
 
-</div>
+[View repository](https://github.com/KURNIAIQBAL/simplenoteapp1.github.io)
+</details>
+
+<details>
+<summary><b>koppinjam.github.io</b> · open source</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/KURNIAIQBAL/koppinjam.github.io)
+</details>
+
+<details>
+<summary><b>koprasi</b> · HTML</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/KURNIAIQBAL/koprasi)
+</details>
+
+## Progress so far
+
+- **Current streak:** 1 days
+- **Longest streak:** 1 days
+- **Active days:** 3 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal stats visual" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=kurniaiqbal&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F191663961%3Fv%3D4" alt="kurniaiqbal social visual" />
+</p>
+
+<a href="https://github.com/kurniaiqbal">GitHub</a>
+
+<p align="center"><sub>Muhammad Karunia Iqbal · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
