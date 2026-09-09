@@ -1,5 +1,3 @@
-# 🟩 Bento Neo-Brutalism GitHub Profile
-
 <div align="center">
 
 <!-- Header Bento -->
@@ -7,8 +5,8 @@
 <tr>
 <td align="center" width="100%" style="background-color:#DFFFD6; border:3px solid #1A1A1A; padding:20px;">
   
-# 👋 Hi, I'm Muhammad  
-💻 Sistem Informasi | Networking & Java Enthusiast  
+# Hi, I'm Muhammad  Karunia Iqbal
+💻 Sistem Informasi | Fullstack Developer & Cloud Engineering  
 
 </td>
 </tr>
@@ -45,7 +43,7 @@
 <td width="50%" style="background-color:#DFFFD6; border:3px solid #1A1A1A; padding:20px;">
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=DFFFD6&title_color=1A1A1A&text_color=1A1A1A&icon_color=1A1A1A&border_color=1A1A1A&hide_border=false&border_radius=0&count_private=true&include_all_commits=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=DFFFD6&title_color=1A1A1A&text_color=1A1A1A&icon_color=1A1A1A&border_color=1A1A1A&hide_border=false&border_radius=0&count_private=true&include_all_commits=true)
 
 </td>
 
@@ -66,7 +64,7 @@
 <td align="center" width="100%" style="background-color:#1A1A1A; color:#F9F6EE; border:3px solid #1A1A1A; padding:20px;">
 
 ### 🌀 Contribution Animation
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
 
 </td>
 </tr>
